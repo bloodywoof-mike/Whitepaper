@@ -1,0 +1,20 @@
+---
+order: 300
+icon: id-badge
+---
+
+# Fight.ID (Identity)
+
+## What it is
+
+Fight.ID (https://fight.id) is a chain-native identity that anchors every user's journey in the Fight ecosystem. Each FightID carries a unique handle and a portable profile that can include linked wallets, participation history (quests completed, events engaged, predictions made), badges and achievements, and the user's access rights across Fight apps and partner surfaces. FightID is designed to be consent-based and portable: once claimed, it travels with the user across products, partners, and seasons without forcing them to start over.
+
+## Why it matters
+
+Identity is the front door to everything we do. Fans with FightID can be recognized, rewarded, and upgraded across campaigns and products, which enables real loyalty instead of one-off promotions. For operations, FightID reduces friction (one identity, many utilities), improves safety (less multi-account abuse), and allows targeted rewards (right perk to the right fan at the right time). For partners, a consistent identity turns fragmented touchpoints into a coherent, measurable relationship with each fan.
+
+## How value accrues to $FIGHT
+
+FightID is the on-ramp to all paid utilities that touch $FIGHT: prediction entries, staking to join fighter communities, merch and ticket rails, and more. The more identities we convert—especially through UFC fight-week distribution—the more repeat interactions flow through $FIGHT. Identity gating also reduces fraud and bot activity, which protects fee revenue and makes token sinks (fees, memberships, upgrades) more durable.
+
+**In short**: more FightIDs claimed → more qualified users using paid features → more fees routed to the DAO → more buybacks/burns and ecosystem growth that support $FIGHT.

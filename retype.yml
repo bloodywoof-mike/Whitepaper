@@ -1,0 +1,36 @@
+input: .
+output: .retype
+
+url: https://fight-foundation.github.io/Whitepaper/
+
+branding:
+  title: Fight Whitepaper
+  label: Docs
+  colors:
+    brand: "#FF4001"
+    accent: "#FF4001"
+
+links:
+  - text: GitHub
+    link: https://github.com/Fight-Foundation/Whitepaper
+    icon: mark-github
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. Fight Foundation. All rights reserved."
+
+# Force dark mode only and hide the theme toggle
+theme:
+  default: dark
+  toggle: false
+
+# Exclude README from the site nav; keep it as repo documentation only
+exclude:
+  - README.md
+
+scheme:
+  mode: dark
+
+theme:
+  dark:
+    base-color: "#FF4001"
+    base-bg: "#303446"
