@@ -74,7 +74,7 @@ FIGHT token implements multi-signature governance for enhanced security and dece
   - ✅ OFT Admin (program configuration)
   - ✅ Token Metadata Update Authority
   - ⚠️ LayerZero Delegate (pending multisig action)
-  - ⚠️ Program Upgrade Authority (pending transfer)
+  - ✅ Program Upgrade Authority
 
 #### BSC Multisig
 - **Address:** `0x1381c63F11Fe73998d80e2b42876C64362cF98Ab`
