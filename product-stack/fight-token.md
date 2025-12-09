@@ -7,7 +7,7 @@ icon: credit-card
 
 ## What it is
 
-$FIGHT is the Solana-based IP token that powers entries, staking, community membership, governance, and transaction fees across Fight experiences. It is the common medium that unifies identity-driven access, reputation-driven status, and the utilities fans care about—prediction markets, fighter communities, Prize$Fight bounties, and FightGear commerce. Governance rights allow token holders to shape programs, budgets, and integrations as the ecosystem decentralizes.
+$FIGHT is the Solana-based access token that enables dual access across the Fight ecosystem: **projects burn $FIGHT to access the authenticated Fight.ID community**, and **fans hold $FIGHT to access premium experiences, governance rights, and platform features**. It unifies identity-driven access, reputation-driven status, and the utilities both partners and fans care about—partner distribution campaigns, governance participation, fighter communities, prediction markets, Prize$Fight bounties, and FightGear commerce.
 
 ## Why it matters
 
@@ -15,4 +15,10 @@ A single token across multiple UFC-supported surfaces lowers friction for newcom
 
 ## How value accrues to $FIGHT
 
-Every new surface adds new token sinks—prediction fees, community memberships and upgrades, staking locks with FP boosts, merch/ticket rails, and sponsorship flows. Under DAO policy, a portion of net revenues funds buybacks and burns, while another portion funds growth grants and liquidity programs that drive the next wave of users. Because UFC distribution gives us a reliable cadence of events, these sinks recur week after week: more activations → more $FIGHT usage → more fees → more buybacks/burns and growth—tightening the feedback loop between fandom and token value.
+**Partner burns** — projects burn $FIGHT to acquire FP for distribution through quests and campaigns, creating direct, permanent supply reduction as ecosystem adoption grows.
+
+**Access & governance demand** — holding $FIGHT unlocks premium fight experiences, exclusive content, and platform features; staking for governance rights locks supply and increases as treasury scale grows.
+
+**Community & utility fees** — fighter community memberships and upgrades, staking locks with FP boosts, prediction market fees (via licensed partners), merch/ticket rails, and sponsorship flows generate recurring $FIGHT-denominated revenues. Under DAO policy, portions fund buybacks/burns and growth grants.
+
+**UFC distribution** gives us a reliable cadence of events, making these sinks recur week after week: more activations → more $FIGHT usage → more fees and burns → tightening the feedback loop between engagement and token value.

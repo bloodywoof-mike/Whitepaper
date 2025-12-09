@@ -3,7 +3,7 @@ icon: home
 
 # Fight Whitepaper
 
-**The Official IP Token of Combat Sports**
+**The Access Token for Combat Sports**
 
 This repository contains the Fight Foundation whitepaper published as a static site using Retype.
 

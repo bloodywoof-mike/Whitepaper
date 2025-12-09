@@ -22,21 +22,21 @@ During the pre-TGE phase, we publish the full emissions and governance specifica
 
 ## Post-TGE (Near-Term)
 
-Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported.
+Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported. The **Partner Ecosystem Access** model launches, enabling select projects to burn $FIGHT for FP distribution to the Fight.ID community through quests and campaigns.
 
-**Why this matters:** Fans get instant, meaningful utility on day one—stake to join fighter communities, earn boosted rewards via FP, and participate in visible prize moments.
+**Why this matters:** Fans get instant, meaningful utility on day one—stake to join fighter communities, earn boosted rewards via FP, and participate in visible prize moments. Projects gain direct access to an authenticated, engaged fanbase, creating immediate demand for $FIGHT.
 
-**How value accrues to $FIGHT:** Staking locks remove tokens from circulation, community actions create recurring micro-fees, and commerce rails settle in $FIGHT where available; a share of net revenues flows to the DAO for **buybacks/burns** and growth programs.
+**How value accrues to $FIGHT:** Staking locks remove tokens from circulation, community actions create recurring micro-fees, partner burns reduce circulating supply, and commerce rails settle in $FIGHT where available; a share of net revenues flows to the DAO for **buybacks/burns** and growth programs.
 
 ---
 
 ## Q1 2026
 
-We launch **Prediction Markets** for fight outcomes and performance props, synchronized to the UFC calendar, and expand **exchange coverage** to improve routing depth and accessibility for new users. We also open additional **partner surfaces** that accept $FIGHT for access, entries, and upgrades.
+We launch **Prediction Markets** through partnership with a licensed operator, offering fantasy-style, culture-based games synchronized to the UFC calendar. We also expand **exchange coverage** to improve routing depth and accessibility for new users, and open additional **partner surfaces** that accept $FIGHT for access, entries, and upgrades. The **Partner Ecosystem Access** model scales, with more projects burning $FIGHT for FP to incentivize Fight.ID community participation.
 
-**Why this matters:** Prediction Markets transform weekly cards into repeatable engagement loops, while broader listings reduce slippage and make participation simpler for mainstream fans.
+**Why this matters:** Prediction Markets add repeatable engagement loops around weekly cards; partner-operated model ensures compliance and global reach. Broader listings reduce slippage. Growing partner demand for ecosystem access creates sustained burn pressure on circulating supply.
 
-**How value accrues to $FIGHT:** Maker/taker/settlement fees settle in $FIGHT, leaderboard mechanics increase entry frequency, and exchange depth supports higher throughput—all of which raise fee flow to the DAO and, in turn, buyback/burn capacity.
+**How value accrues to $FIGHT:** Prediction market fees settle in $FIGHT and flow to DAO for buybacks/burns; exchange depth supports higher throughput; partner burns directly reduce circulating supply, compounding value accrual as ecosystem scales.
 
 ---
 
@@ -44,7 +44,7 @@ We launch **Prediction Markets** for fight outcomes and performance props, synch
 
 We **scale Fighter Communities** with **dynamic entry pricing** and **member dividends**, deepen perk stacks (AMAs, watch-alongs, club tournaments), and roll out **FightGear** capsule drops tied to marquee events. FightGear business strategy and prototype merchandise reach consumer testing. In parallel, we add **additional league integrations** and enable **selective multi-chain access** where partner distribution requires it—while keeping Solana as the economic hub.
 
-**Why this matters:** Communities convert casual fandom into durable membership with real skin in the game, and apparel acts as a viral surface that reaches beyond crypto. New league and partner surfaces multiply places where identity, reputation, and ownership matter.
+**Why this matters:** Communities convert casual engagement into durable membership with real skin in the game, and apparel acts as a viral surface that reaches beyond crypto. New league and partner surfaces multiply places where identity, reputation, and ownership matter.
 
 **How value accrues to $FIGHT:** Community stakes lock supply and generate program fees; FightGear purchases and royalties can be denominated in $FIGHT; new integrations add fresh sinks and revenue-share streams that route back to the DAO for **buybacks/burns** and ecosystem grants.
 

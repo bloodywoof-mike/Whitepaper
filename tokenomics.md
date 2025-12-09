@@ -7,7 +7,7 @@ icon: graph
 
 ## Overview and Supply
 
-$FIGHT is a Solana (SPL) IP token with a **fixed maximum supply of 10,000,000,000 tokens**.  
+$FIGHT is a Solana (SPL) access token with a **fixed maximum supply of 10,000,000,000 tokens**.  
 At the Token Generation Event (TGE), the initial reference price is **$0.0500**, implying a **$500,000,000 fully diluted supply benchmark**. Circulating supply at TGE is expected to be **approximately 19.50% (1,950,000,000 $FIGHT)**, with all other tokens locked and vesting according to the schedules below.  
 
 This structure provides transparency around token allocation while ensuring long-term alignment between community participants, contributors, and partners.  

@@ -1,19 +1,24 @@
 ---
 order: 10000
 icon: rocket
+hidden: true
 ---
 
 # Executive Summary
 
-**Fight is the Web3 home of combat-sports fandom** — a licensed ecosystem built by the developers behind UFC Strike and powered by **Fight.ID**, the official digital gateway for MMA and fight culture. It runs on three pillars:
+**Fight is the Web3 home of combat sports** — a licensed ecosystem built by the developers behind UFC Strike and powered by **Fight.ID**, the official digital gateway for MMA and fight culture. It runs on three pillars:
 
 1. **Identity (FightID)** — a portable, on-chain identity for fans and fighters.  
 2. **Reputation (FP points)** — non-transferable "Fighting Points" that reflect participation and unlock ecosystem utility.  
-3. **Ownership ($FIGHT)** — a Solana-based ecosystem token for combat sports that powers access, staking, governance, fees, and rewards.  
+3. **Ownership ($FIGHT)** — a Solana-based access token that enables dual access: projects burn $FIGHT to access the Fight.ID community; fans hold $FIGHT to access premium experiences, governance rights, and platform features.  
 
 **Fight.ID is a partner of the UFC.** The UFC and Fight.ID have publicly announced a multi-year collaboration to grow the UFC's digital fanbase with loyalty experiences, Prize$Fight fighter bonuses, and FightGear premium apparel.
 
-**Flagship utility: Prediction Markets** — a token-based, fantasy-style product synchronized to the global MMA calendar. This experience, combined with fighter communities, merchandise and ticketing rails, and partner activations, channels ecosystem activity through transparent, DAO-governed fee flows and treasury programs.
+**Core Utilities:**
+- **Holding $FIGHT grants access** to premium fight experiences, exclusive content, and platform features.
+- **Governance participation** through token-holder voting on ecosystem priorities, treasury allocations, and protocol parameters.
+- **Flagship: Partner Ecosystem Access** — projects burn $FIGHT to acquire FP that they distribute through quests, incentivizing participation within the Fight.ID community and creating a direct value loop between ecosystem activity and token demand.
+- **Fighter communities, merchandise rails, prediction markets (via licensed partners), and event-driven rewards** channel ecosystem activity through transparent, DAO-governed fee flows and treasury programs.
 
 ## Why this matters
 

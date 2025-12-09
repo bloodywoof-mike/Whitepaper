@@ -120,8 +120,9 @@ Initial public supporters include UFC athletes **Josh Emmett, Gilbert Burns, Dan
 
 The Council advises on fighter-centric utility and experiences end to end:
 
-- **Prediction markets:** which props are meaningful, how to define "skill-based" formats, and where integrity or safety considerations apply.
-- **Fighter communities:** staking tiers, perk structures, membership mechanics, and codes of conduct that promote respectful, long-term fandom.
+- **Partner ecosystem access:** ensuring projects that burn $FIGHT for FP distribution create value for fighters and fans; guiding quest design and campaign ethics.
+- **Prediction markets (partner-operated):** which props are meaningful, how to define "skill-based" formats, and where integrity or safety considerations apply.
+- **Fighter communities:** staking tiers, perk structures, membership mechanics, and codes of conduct that promote respectful, long-term engagement.
 - **Content and programming:** formats for AMAs, watch-alongs, training drops, and behind-the-scenes experiences that reward both fighters and committed fans.
 - **Prize$Fight disbursements:** criteria, nomination flows, and transparency standards for bonus awards and event bounties.
 - **Principles and safety:** upholding **Fight Fair / Fight Together / Fight Through / Fight Forever** in incentive design; championing anti-abuse practices; and recommending swift guardrails when new mechanics create unintended behavior.
@@ -140,13 +141,13 @@ Council recommendations are recorded in public RFCs or proposal threads and rout
 
 ### How value accrues to $FIGHT
 
-Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better prediction props, more compelling community perks, and credible Prize$Fight criteria lead to more **$FIGHT-denominated entries, stakes, and purchases**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **buybacks and burns** (reducing circulating supply) and a share to growth programs (fueling the next wave of users and utilities). In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
+Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better prediction props, more compelling community perks, credible Prize$Fight criteria, and fighter-vetted partner campaigns lead to more **$FIGHT-denominated entries, stakes, purchases, and burns**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **buybacks and burns** (reducing circulating supply) and a share to growth programs (fueling the next wave of users and utilities). Partner demand for FP distribution creates direct burn pressure as projects burn $FIGHT to access the Fight.ID community. In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
 
 ---
 
 ## Treasury Policy (Expanded)
 
-Net revenues from $FIGHT-denominated utilities—prediction market fees, community memberships and upgrades, merch/ticket rails, FightGear royalties, Prize$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
+Net revenues from $FIGHT-denominated utilities—partner burns (projects burning $FIGHT for FP), community memberships and upgrades, prediction market fees (via licensed partners), merch/ticket rails, FightGear royalties, Prize$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
 
 - **Buybacks and burns** that reduce circulating supply over time
 - **Ecosystem grants** (builders, fighters, creators) with milestone-based disbursements and clawbacks

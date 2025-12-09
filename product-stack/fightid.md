@@ -15,6 +15,6 @@ Identity is the front door to everything we do. Fans with FightID can be recogni
 
 ## How value accrues to $FIGHT
 
-FightID is the on-ramp to all paid utilities that touch $FIGHT: prediction entries, staking to join fighter communities, merch and ticket rails, and more. The more identities we convert—especially through UFC fight-week distribution—the more repeat interactions flow through $FIGHT. Identity gating also reduces fraud and bot activity, which protects fee revenue and makes token sinks (fees, memberships, upgrades) more durable.
+FightID is the on-ramp to all paid utilities that touch $FIGHT: community staking, governance participation, partner-operated prediction markets, merch and ticket rails, and more. The more identities we convert—especially through UFC fight-week distribution—the more repeat interactions flow through $FIGHT. Identity gating also reduces fraud and bot activity, which protects fee revenue and makes token sinks (fees, memberships, upgrades, burns) more durable.
 
-**In short**: more FightIDs claimed → more qualified users using paid features → more fees routed to the DAO → more buybacks/burns and ecosystem growth that support $FIGHT.
+**In short**: more FightIDs claimed → more qualified users using paid features → more fees and burns routed to the DAO → more buybacks/burns and ecosystem growth that support $FIGHT.

@@ -6,47 +6,54 @@ label: Utility
 
 # Ecosystem Utility
 
-The Fight ecosystem supports multiple utility surfaces that transform combat-sports fandom into recurring, value-accruing participation. These utilities may be built by partners or developed in-house, but all integrate the Fight standard: **FightID** (identity), **FP** (reputation), and **$FIGHT** (ownership). Each utility is synchronized to UFC's event cadence and denominated in $FIGHT.
+The Fight ecosystem integrates multiple utility surfaces that turn combat-sports engagement into recurring participation. These utilities may be built by partners or developed in-house, all integrating the Fight standard: **FightID** (identity), **FP** (reputation), and **$FIGHT** (ownership). Each utility ties to UFC's event cadence and generates $FIGHT-denominated activity.
 
 ---
 
-## 1. Prediction Markets
+## 1. Partner Ecosystem Access (Flagship)
 
-**Fantasy- and culture-based games** (not wagering on fight results) where fans use **$FIGHT** to enter skill-based challenges. Predictions cover MMA culture: card announcements, walkout aesthetics, media moments, training camps, merch themes, and creator challenges.
+**Projects burn $FIGHT to acquire FP** that they distribute through quests, campaigns, and challenges to incentivize the Fight.ID community. This B2B model creates direct demand for $FIGHT as ecosystem partners pay to access the engaged fanbase. Projects use FP rewards to drive user actions—completing quests, engaging with content, participating in events—creating a flywheel where partner demand fuels token burns and fan participation earns reputation.
 
-**Examples:** "Which city hosts the next PPV?", "What color will O'Malley's hair be next fight week?", "Which gym signs a top-10 bantamweight this quarter?"
+**Why it matters:** Converts Fight.ID's audience into a monetizable asset. Partners get access to an authenticated, reputation-scored community; fans earn FP through meaningful participation; $FIGHT becomes the required currency for ecosystem access.
 
-Entries are scored against **objective, pre-published resolution sources** (UFC announcements, fighter posts, broadcast assets, on-chain metadata). Fans compete in seasonal leaderboards, club tournaments inside fighter communities, and creator-hosted games that reward high-FP performance.
-
-**Why it matters:** Transforms passive viewership into active participation. UFC's reliable event cadence creates weekly utility. Over time, fans build reputations, develop strategies, and gain social clout connected to FP and fighter communities.
-
-**Value accrual:** Market **maker/taker/settlement fees** are collected in $FIGHT and distributed via programmable splits to the **DAO treasury**, **liquidity providers**, and an automated **buyback/burn module**. Seasonal leaderboards, FP multipliers, and club tournaments increase entry frequency and stake depth.
-
-**Integrity:** Identity-anchored via **FightID** with **anti-sybil** protections and **staking-velocity** limits. Results verified through vetted **oracles** with transparent **DAO dispute-resolution** processes. Analytics monitoring detects manipulation.
-
-**Compliance:** Built with **jurisdictional controls** from day one. Geofencing, licensed partnerships, and skill-based fantasy formats ensure global reach while respecting local regulations.
+**Value accrual:** Partners burn $FIGHT to acquire FP → permanent supply reduction. As Fight.ID scales and more partners seek distribution, burn demand grows, directly tightening circulating supply while expanding utility.
 
 ---
 
-## 2. Fighter Communities & Staking
+## 2. Access & Governance
 
-On-chain fan clubs where membership requires **staking $FIGHT**. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, prediction tournaments, and Prize$Fight bounties. Fans maintain membership by keeping their stake active and can upgrade tiers through increased stake or higher **FP**.
+**Holding $FIGHT unlocks premium experiences:** exclusive fight content, early access to features, platform perks, and priority in community programs. Token holders also participate in governance, voting on treasury allocations, emissions schedules, ecosystem grants, and protocol parameters through the DAO.
+
+**Why it matters:** Creates baseline utility independent of any single feature. Holding = access + voice. As the ecosystem expands, access value compounds (more partners, more content, more perks); governance influence grows with treasury scale.
+
+**Value accrual:** Holding demand increases as utility surfaces expand. Staked tokens for governance rights lock supply. DAO-directed buyback/burn programs directly reduce circulating tokens using protocol revenues.
+
+---
+
+## 3. Fighter Communities & Staking
+
+On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, prediction tournaments, and Prize$Fight bounties. Membership maintained through active stakes; upgrades via increased stake or higher FP.
 
 **Core mechanics:**
+- **Dynamic entry pricing:** Stakes rise as membership grows, rewarding early supporters.
+- **Reward routing:** Join fees and community revenues flow to existing members (pro-rata) and the DAO treasury for buybacks/burns and grants.
+- **FP multipliers:** High-FP members receive boosted yields, priority access, and enhanced community perks.
 
-- **Dynamic entry pricing:** Stake requirements rise as membership grows, rewarding early supporters with lower costs and higher status.
-- **Reward routing:** Portions of join fees and community revenues flow to existing members (pro-rata or tier-weighted) and to the **DAO treasury**—funding grants, buybacks/burns, and member retention.
-- **FP multipliers:** High-FP members receive boosted staking yields, priority access to premium experiences, allowlists for drops, and better odds in community raffles.
-
-**Why it matters:** Creates durable, authentic fandoms with real economic alignment. Stake requirements make membership intentional; dynamic pricing rewards discovery; FP-based boosts reward consistent participation. Fight-week moments become programmed touchpoints that convert attention into membership and retention.
-
-**Value accrual:** Staking locks remove tokens from circulation; community actions generate **$FIGHT-denominated fees** routed to the DAO for **buybacks/burns** and to members for retention; FP boosts increase stake duration. UFC-aligned moments drive new joins → higher entry prices → more fees to members and DAO → growth and buybacks/burns → rising community value.
-
-**Safeguards:** Community parameters (entry curves, reward splits, eligibility) are DAO-governed with Athlete Council input. **FightID** gating mitigates sybil abuse; rate limits and audit trails preserve integrity.
+**Value accrual:** Staking locks supply; community fees generate $FIGHT-denominated revenues routed to DAO for buybacks/burns; FP boosts increase stake duration. UFC fight-week moments drive new memberships → higher entry prices → more fees → growth and burns.
 
 ---
 
-## 3. Additional Utility Surfaces
+## 4. Prediction Markets (Partner-Operated)
+
+**Fantasy-style games** (not wagering on fight results) offered through partnership with a licensed operator. Fans use **$FIGHT** to enter skill-based challenges covering MMA culture: card announcements, walkout aesthetics, media moments, training camps, and creator content.
+
+Entries scored against objective, pre-published resolution sources. Fans compete in seasonal leaderboards, club tournaments, and creator-hosted games rewarding high-FP performance.
+
+**Value accrual:** Maker/taker/settlement fees collected in $FIGHT, routed to DAO treasury for buybacks/burns, liquidity, and grants. Seasonal mechanics increase entry frequency.
+
+---
+
+## 5. Additional Utility Surfaces
 
 ### FightGear
 
