@@ -23,4 +23,4 @@ Minimum-FP gates can also be applied to fighter clubs or tournaments, concentrat
 
 **Partner demand for FP distribution** creates recurring burn pressure: projects must burn $FIGHT to acquire FP → permanent supply reduction as ecosystem scales. The more partners seek Fight.ID's audience, the more $FIGHT leaves circulation.
 
-**Net effect**: FP raises the frequency and depth of interactions that generate $FIGHT fees and burns, strengthening the DAO's buyback/burn engine and partner-driven supply reduction.
+**Net effect**: FP raises the frequency and depth of interactions that generate $FIGHT fees and burns, strengthening the DAO's treasury programs and partner-driven supply reduction.

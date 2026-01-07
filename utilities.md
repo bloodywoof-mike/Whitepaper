@@ -26,7 +26,7 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 **Why it matters:** Creates baseline utility independent of any single feature. Holding = access + voice. As the ecosystem expands, access value compounds (more partners, more content, more perks); governance influence grows with treasury scale.
 
-**Value accrual:** Holding demand increases as utility surfaces expand. Staked tokens for governance rights lock supply. DAO-directed buyback/burn programs directly reduce circulating tokens using protocol revenues.
+**Value accrual:** Holding demand increases as utility surfaces expand. Staked tokens for governance rights lock supply. DAO-directed treasury programs support the token and ecosystem using protocol revenues.
 
 ---
 
@@ -36,10 +36,10 @@ On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's co
 
 **Core mechanics:**
 - **Dynamic entry pricing:** Stakes rise as membership grows, rewarding early supporters.
-- **Reward routing:** Join fees and community revenues flow to existing members (pro-rata) and the DAO treasury for buybacks/burns and grants.
+- **Reward routing:** Join fees and community revenues flow to existing members (pro-rata) and the DAO treasury for ecosystem support and grants.
 - **FP multipliers:** High-FP members receive boosted yields, priority access, and enhanced community perks.
 
-**Value accrual:** Staking locks supply; community fees generate $FIGHT-denominated revenues routed to DAO for buybacks/burns; FP boosts increase stake duration. UFC fight-week moments drive new memberships → higher entry prices → more fees → growth and burns.
+**Value accrual:** Staking locks supply; community fees generate $FIGHT-denominated revenues routed to DAO for treasury programs that support the token and ecosystem; FP boosts increase stake duration. UFC fight-week moments drive new memberships → higher entry prices → more fees → growth and burns.
 
 ---
 
@@ -49,7 +49,7 @@ On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's co
 
 Entries scored against objective, pre-published resolution sources. Fans compete in seasonal leaderboards, club tournaments, and creator-hosted games rewarding high-FP performance.
 
-**Value accrual:** Maker/taker/settlement fees collected in $FIGHT, routed to DAO treasury for buybacks/burns, liquidity, and grants. Seasonal mechanics increase entry frequency.
+**Value accrual:** Maker/taker/settlement fees collected in $FIGHT, routed to DAO treasury for ecosystem support, liquidity, and grants. Seasonal mechanics increase entry frequency.
 
 ---
 
@@ -61,7 +61,7 @@ Premium combat-sports lifestyle brand featuring limited-run capsule drops, fight
 
 **Why it matters:** Apparel acts as a viral surface extending the brand into the real world. Converts casual awareness into **FightID** claims and repeat engagement. Traditional apparel business bringing revenue and profits to the ecosystem.
 
-**Value accrual:** Purchases, holder discounts, and royalties denominated in **$FIGHT**. Programmable share of net proceeds flows to **DAO treasury** for **buybacks/burns**, builder grants, and future drops.
+**Value accrual:** Purchases, holder discounts, and royalties denominated in **$FIGHT**. Programmable share of net proceeds flows to **DAO treasury** for **ecosystem support**, builder grants, and future drops.
 
 ---
 
@@ -71,7 +71,7 @@ Programmable prize-pool framework for **fighter bonuses**, **fan challenges**, a
 
 **Why it matters:** Turns fan support into tangible rewards for athletes. Aligns incentives—fighters rewarded for memorable performances, fans for engagement and prediction skill, sponsors for measurable activation. What benefits fighters benefits fans, and vice versa.
 
-**Value accrual:** Funding, pledges, and entry fees denominated in **$FIGHT**. Protocol fee routes to treasury for **buybacks/burns** and future campaigns. Clusters around fight week, driving new **FightID** sign-ups and repeat token usage. Some bonuses time-locked until fighter retirement, reducing float.
+**Value accrual:** Funding, pledges, and entry fees denominated in **$FIGHT**. Protocol fee routes to treasury for **ecosystem support** and future campaigns. Clusters around fight week, driving new **FightID** sign-ups and repeat token usage. Some bonuses time-locked until fighter retirement, reducing float.
 
 ---
 
@@ -81,7 +81,7 @@ Network of partner apps, leagues, and utilities integrating the Fight standard: 
 
 **Why it matters:** Expands where fan identity and reputation matter without fragmentation. Unified layer lets fans carry their handle, FP, and access rights everywhere. Partners tap into UFC-synchronized distribution and engaged audience, lowering integration cost and accelerating go-to-market.
 
-**Value accrual:** Each integration adds new **utility surfaces** and **fee streams** (subscriptions, upgrades, entries, settlement) denominated in **$FIGHT**. Standard revenue-share routes portions to **DAO treasury** for **buybacks/burns**, liquidity programs, and builder grants seeding the next wave of partners.
+**Value accrual:** Each integration adds new **utility surfaces** and **fee streams** (subscriptions, upgrades, entries, settlement) denominated in **$FIGHT**. Standard revenue-share routes portions to **DAO treasury** for **ecosystem support**, liquidity programs, and builder grants seeding the next wave of partners.
 
 ---
 
@@ -103,10 +103,10 @@ All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasur
 
 Portions of **net revenues** flow to the **DAO treasury** in **$FIGHT**. The DAO allocates proceeds to:
 
-- **Buybacks and burns** — reduces circulating supply over time
+- **Token and ecosystem support** — DAO-directed programs to strengthen the token and platform
 - **Ecosystem grants** — drives new product surfaces and user growth
 - **Liquidity operations** — smooth onboarding for mainstream fans
 
 ### The Flywheel
 
-UFC's cadence supplies distribution → FightID and FP convert attention into value-creating actions → $FIGHT-denominated revenues fund buybacks/burns and next-wave growth → compounding cycle where **real usage directly supports token value**, card after card, season after season.
+UFC's cadence supplies distribution → FightID and FP convert attention into value-creating actions → $FIGHT-denominated revenues fund DAO treasury programs and next-wave growth → compounding cycle where **real usage directly supports token value**, card after card, season after season.
