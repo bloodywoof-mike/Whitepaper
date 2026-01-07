@@ -19,6 +19,6 @@ A single token across multiple UFC-supported surfaces lowers friction for newcom
 
 **Access & governance demand** — holding $FIGHT unlocks premium fight experiences, exclusive content, and platform features; staking for governance rights locks supply and increases as treasury scale grows.
 
-**Community & utility fees** — fighter community memberships and upgrades, staking locks with FP boosts, prediction market fees (via licensed partners), merch/ticket rails, and sponsorship flows generate recurring $FIGHT-denominated revenues. Under DAO policy, portions fund buybacks/burns and growth grants.
+**Community & utility fees** — fighter community memberships and upgrades, staking locks with FP boosts, prediction market fees (via licensed partners), merch/ticket rails, and sponsorship flows generate recurring $FIGHT-denominated revenues. Under DAO policy, portions fund treasury programs and growth grants.
 
 **UFC distribution** gives us a reliable cadence of events, making these sinks recur week after week: more activations → more $FIGHT usage → more fees and burns → tightening the feedback loop between engagement and token value.
