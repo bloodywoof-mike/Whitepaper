@@ -12,7 +12,7 @@ The Fight roadmap is built around UFC's fight calendar and progressive feature r
 
 ## Pre-TGE → TGE
 
-During the pre-TGE phase, we publish the full emissions and governance specifications, expand the **FightID** quest program, and run **UFC-tied fight-week funnels** that rehearse our acquisition and retention motions. In parallel, we launch **fighter ambassador campaigns** with clear creative kits, performance SLAs, and FP-based rewards so that athletes and creators can reliably onboard their audiences.
+During the pre-TGE phase, we publish the full emissions and governance specifications, expand the **Fight.ID** quest program, and run **UFC-tied fight-week funnels** that rehearse our acquisition and retention motions. In parallel, we launch **fighter ambassador campaigns** with clear creative kits, performance SLAs, and FP-based rewards so that athletes and creators can reliably onboard their audiences.
 
 **Why this matters:** Clear economics and transparent governance reduce uncertainty for partners and users, while fight-week rehearsals prove that our funnels convert mainstream attention into identity claims and repeat engagement.
 
