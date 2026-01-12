@@ -7,8 +7,7 @@ icon: graph
 
 ## Overview and Supply
 
-$FIGHT is a Solana (SPL) access token with a **fixed maximum supply of 10,000,000,000 tokens**.  
-At the Token Generation Event (TGE), the initial reference price is **$0.0500**, implying a **$500,000,000 fully diluted supply benchmark**. Circulating supply at TGE is expected to be **approximately 19.50% (1,950,000,000 $FIGHT)**, with all other tokens locked and vesting according to the schedules below.  
+$FIGHT is a Solana (SPL) access token with a **fixed maximum supply of 10,000,000,000 tokens**. Circulating supply at TGE is expected to be **approximately 19.50% (1,950,000,000 $FIGHT)**, with all other tokens locked and vesting according to the schedules below.  
 
 This structure provides transparency around token allocation while ensuring long-term alignment between community participants, contributors, and partners.  
 
@@ -70,43 +69,8 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ---
 
-## Token Vaults
-
-The following vaults hold and secure $FIGHT tokens according to the allocation and release schedules outlined above:
-
-### Anchorage Vaults (3/5 Multisig)
-
-| Vault Name | Asset Type | Address |
-|------------|-----------|---------|
-| Community | BNB_BSC | 0xda7F3Db4a85F88A595aD770768107FF9b8a419D2 |
-| Liquidity | SOL | 4388FZ2xuhc6LdLfs8h5M3TQCdfHmQQfqydbKTrG32DN |
-| Core Team | SOL | 4PQ77Zj9FNPEkBhRNbqBcxF9G8ryEpTUqghCBD2kEsYu |
-| Advisors | SOL | 7MUTKCUHTgC55kBRD3ouyFDVpKR2Gr7hxyAHNErtKg33 |
-| Investors | SOL | EhRymXhn6fVJwvFobPWBLn7uog2XerPrv9J469xWbCxu |
-| Community | SOL | UfxE9XWSVqZsCvQL92GUpAAf2hVSbTtRY9QCnJspJYG |
-
-### Hot Multisig Wallets (3/4 Multisig)
-
-**Squads (Solana):**
-
-| Vault Name | Address |
-|------------|---------|
-| Community | GCQ8wGjU5TYmzC1YJckqgTGQLRjRxktB4rNuemPA9XWh |
-| Team | AS53hhWLunsbjakHNKWD5L54ZrFHEGSNzowifp7CnMDG |
-| Advisors | AxvEFAG2uvJoJj8nSsLh1uL2JEPHZm2rVj2Ru3ZMV3RM |
-| Liquidity | 6TYnFMw4UQ6SB7Y9HQcU61wp64g14QqSqNQGzmQBGMHz |
-| Investors | 6TYnFMw4UQ6SB7Y9HQcU61wp64g14QqSqNQGzmQBGMHz |
-
-**BNB Safe:**
-
-| Vault Name | Address |
-|------------|---------|
-| Hot Wallet | 0x1381c63F11Fe73998d80e2b42876C64362cF98Ab |
-
----
-
 ### Governance and Transparency
 
-All token unlocks are executed through on-chain schedules and reported via DAO dashboards. Treasury policies governing emissions, grants, and liquidity programs are **community-approved and may be adjusted through governance proposals**.  
+All token unlocks are executed through on-chain schedules and reported via Foundation dashboards. Treasury policies governing emissions, grants, and liquidity programs are **community-approved and may be adjusted through governance proposals**.  
 
 > *Nothing in this section should be interpreted as an offer of securities, a promise of future value, or an expectation of profit. All allocations and parameters are subject to change by DAO governance or legal requirements.*
