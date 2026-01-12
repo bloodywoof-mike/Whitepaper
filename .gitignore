@@ -6,3 +6,5 @@ __pycache__/
 .retype/
 node_modules/
 retype.manifest
+.vitepress/dist
+.vitepress/cache
