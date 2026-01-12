@@ -122,7 +122,7 @@ All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasur
 | **Partner Ecosystem Access** | $FIGHT burns for FP distribution | Ongoing |
 | **Prediction Markets (Partner-Operated)** | Revenue-share fees per partner agreements | Weekly (fight-week) |
 | **Fighter Communities** | Join/upgrade fees, tournaments | Ongoing |
-| **FightGear** | Sales, royalties, holder discounts | Event & drop cycles |
+| **FightGear** | Sales, royalties, holder discounts | Event and drop cycles |
 | **Prize$Fight** | Protocol fee on funding & entries | Event-based |
 | **FightHub Partners** | Revenue-share from integrations | Variable |
 | **Ticketing & Merch** | Transaction fees, partner shares | Event cycles |

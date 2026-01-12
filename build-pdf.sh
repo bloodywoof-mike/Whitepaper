@@ -18,7 +18,7 @@ pandoc \
   -V toccolor=gray \
   --metadata title="Fight Whitepaper" \
   --metadata subtitle="Access Token for Combat Sports" \
-  --metadata date="$(date +%Y-%m-%d)" \
+  --metadata date="January 11, 2026" \
   index.md \
   executive-summary.md \
   ufc-partnership.md \
