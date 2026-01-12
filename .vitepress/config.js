@@ -89,5 +89,7 @@ export default defineConfig({
   
   markdown: {
     lineNumbers: false
-  }
+  },
+  
+  ignoreDeadLinks: true
 })
