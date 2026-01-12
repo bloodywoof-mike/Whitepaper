@@ -73,4 +73,4 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 All token unlocks are executed through on-chain schedules and reported via Foundation dashboards. Treasury policies governing emissions, grants, and liquidity programs are **community-approved and may be adjusted through governance proposals**.  
 
-> *Nothing in this section should be interpreted as an offer of securities, a promise of future value, or an expectation of profit. All allocations and parameters are subject to change by DAO governance or legal requirements.*
+> *Nothing in this section should be interpreted as an offer of securities, a promise of future value, or an expectation of profit. All allocations and parameters are subject to change by Foundation governance or legal requirements.*
